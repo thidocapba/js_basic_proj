@@ -1,1 +1,1 @@
-# js_basic_proj
+# JavaScript Projects
